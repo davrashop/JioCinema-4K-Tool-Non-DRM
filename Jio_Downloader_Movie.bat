@@ -2,7 +2,7 @@
 color 0F
 mode con:cols=120 lines=250
 Title Jio Downloader
-echo                                                   Downloader by Archie
+echo                                                   Downloader by SKS
 :start
 @echo ------------------------------------------------------------------------------------------------------------------------
 @echo                                                       Jio Movies                                            
